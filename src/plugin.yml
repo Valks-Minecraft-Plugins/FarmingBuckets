@@ -1,0 +1,9 @@
+name: FarmingBuckets
+main: me.valk.farmingbuckets.FarmingBuckets
+author: valkyrienyanko
+version: 1.0
+api-version: 1.12
+commands:
+   farmingbuckets:
+     description: For all farming bucket related commands.
+     aliases: [fb]
